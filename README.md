@@ -1,4 +1,4 @@
-# Databricks AI/BI Dashboard
+# Databricks AI/BI Jobs Analysis Dashboard
 
 This repository contains a pre-built Databricks AI/BI dashboard that can be easily imported into your Databricks workspace for immediate use.
 
